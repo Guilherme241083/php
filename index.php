@@ -4,6 +4,5 @@
 
    echo "Olá Udemi";
 
-echo "Olá Hcod!";
 ?>
 
